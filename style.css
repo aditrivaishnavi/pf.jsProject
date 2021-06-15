@@ -1,0 +1,13 @@
+h2 {
+    font-size: 30px !important;
+}
+canvas {
+    border: 1px solid black;
+    margin-top: 10px;
+}
+body {
+    background-color: pink;
+}
+#button {
+    margin-bottom: 10px;
+}
